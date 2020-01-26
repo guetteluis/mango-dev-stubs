@@ -1,0 +1,30 @@
+{
+    "private": true,
+    "name": "@infinite-automation/DummyProjectName",
+    "version": "DummyVersion",
+    "description": "DummyProjectName Project",
+    "main": "web/angular/DummyProjectName.js",
+    "dependencies": {
+        "@infinite-automation/mango-client": "^0.6.0",
+        "chai": "^4.2.0",
+        "mocha": "^5.2.0",
+        "tmp": "^0.0.33"
+    },
+    "devDependencies": {
+        "@infinite-automation/mango-module-tools": "~1.2.0"
+    },
+    "scripts": {
+        "webpack": "webpack --config webpack.config.js",
+        "webpack-dev": "webpack --config webpack.config.js --mode development",
+        "webpack-watch": "webpack --config webpack.config.js --mode development --watch"
+    },
+    "author": "DummyAuthor <DummyAuthorEmail>",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "com_infiniteautomation": {
+        "moduleName": "DummyProjectName"
+    }
+}
