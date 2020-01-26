@@ -1,6 +1,6 @@
 /**
 * @copyright DummyYear {@link http://infiniteautomation.com|Infinite Automation Systems, Inc.} All rights reserved.
-* @author DummyAuthor
+* @author DummyAuthorName
 */
 
 DummyClassnameFactory.$inject = [];

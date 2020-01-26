@@ -18,7 +18,7 @@
         "webpack-dev": "webpack --config webpack.config.js --mode development",
         "webpack-watch": "webpack --config webpack.config.js --mode development --watch"
     },
-    "author": "DummyAuthor <DummyAuthorEmail>",
+    "author": "DummyAuthorName <DummyAuthorEmail>",
     "license": "UNLICENSED",
     "repository": {
         "type": "git",
